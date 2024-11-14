@@ -1,2 +1,2 @@
 # LearningRust
-Beginner stage of learning
+Beginner stage of learning, repo will be updated later
